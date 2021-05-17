@@ -7,7 +7,7 @@
 Download the project, and copy it to the Python search path. Download [Amzi! Prolog](https://github.com/AmziLS/distribution/blob/master/amzi_apls_win64_10-0-05.zip) and extract `apls` folder to the project folder.
 
 
-## Requies
+## Requires
 
 * Python 3.5
 * [cffi](http://cffi.readthedocs.io/en/latest/)
